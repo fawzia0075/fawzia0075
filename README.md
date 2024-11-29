@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fawzia0075
-- 👀 I’m interested in .App developing..
+- 👀 I’m interested in App developing..
 - 🌱 I’m currently learning App developing with flutter...
 
 <!---
